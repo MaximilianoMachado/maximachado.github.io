@@ -1,9 +1,7 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - research.qmd
-
+  
 website:
   title: "Maxi Machado"
   navbar:
