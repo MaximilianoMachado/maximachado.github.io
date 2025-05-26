@@ -1,0 +1,16 @@
+project:
+  type: website
+  output-dir: "."
+  resources:
+    - research.qmd
+
+website:
+  title: "Maxi Machado"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Research"
+        file: research.qmd
+      - text: "CV"
+        href: cv_May2025.pdf 

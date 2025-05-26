@@ -1,0 +1,21 @@
+---
+format: html
+
+---
+
+
+<div style="display: flex; align-items: center; gap: 30px;">
+
+<!-- Profile Picture -->
+<img src="images/picture.jpeg" alt="Maxi Machado" style="width: 180px; border-radius: 50%;"/>
+
+<!-- Bio Text -->
+<div>
+
+# Welcome
+
+I’m a PhD candidate in Economics at the Rotman School of Management, University of Toronto.
+My research focuses on Industrial Organization, with a special interest in topics related to market power.
+In my job market paper, I examine the effects of market concentration in the publishing industry, with a focus on both monopsony and monopoly power.
+
+I completed both my undergraduate and Master's studies in Economics at the Universidad de la República in Uruguay.
